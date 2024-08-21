@@ -1,0 +1,12 @@
+name: BelmontPracticeDash
+title: BelmontPracticeDash
+username:
+account: brycehaaseumass
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9329764
+bundleId: 8230437
+url: https://brycehaaseumass.shinyapps.io/BelmontPracticeDash/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DB Tool.csv|Summer Practice Stat Sheets.xlsx|Summer Weekly and Total Practice Stats.xlsx

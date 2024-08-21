@@ -1,0 +1,121 @@
+"Date","Home","Home_Score","Away","Away_Score","Game_ID","Box_ID","isNeutral","Detail","conf"
+"2022-11-30","Indiana St.","75","Drake","73","5371824","2339085",FALSE,NA,TRUE
+"2022-12-03","Drake","77","UIC","64","5373800","2339406",FALSE,NA,TRUE
+"2022-12-29","Drake","68","Valparaiso","63","5381518","2341973",FALSE,NA,TRUE
+"2023-01-01","Missouri St.","52","Drake","49","5382666","2342565",FALSE,NA,TRUE
+"2023-01-04","Southern Ill.","53","Drake","49","5383799","2342856",FALSE,NA,TRUE
+"2023-01-07","Drake","82","Murray St.","64","5385824","2343244",FALSE,NA,TRUE
+"2023-01-10","UIC","71","Drake","76","5386786","2343750",FALSE,"1 OT",TRUE
+"2023-01-14","Drake","86","Bradley","61","5389292","2344289",FALSE,NA,TRUE
+"2023-01-18","Drake","62","Missouri St.","65","5390755","2344921",FALSE,"1 OT",TRUE
+"2023-01-21","Evansville","61","Drake","97","5392461","2345360",FALSE,NA,TRUE
+"2023-01-24","Drake","70","Indiana St.","68","5393657","2345904",FALSE,NA,TRUE
+"2023-01-29","Belmont","61","Drake","79","5396596","2346864",FALSE,NA,TRUE
+"2023-02-01","Drake","88","UNI","81","5397800","2347207",FALSE,"2 OT",TRUE
+"2023-02-04","Valparaiso","82","Drake","85","5400268","2347463",FALSE,"2 OT",TRUE
+"2023-02-07","Murray St.","68","Drake","92","5401593","2347982",FALSE,NA,TRUE
+"2023-02-11","Drake","82","Southern Ill.","59","5404284","2348510",FALSE,NA,TRUE
+"2023-02-15","UNI","74","Drake","82","5407975","2349287",FALSE,NA,TRUE
+"2023-02-19","Drake","70","Belmont","56","5412830","2349947",FALSE,NA,TRUE
+"2023-02-22","Drake","82","Illinois St.","51","5415546","2350053",FALSE,NA,TRUE
+"2023-02-26","Bradley","73","Drake","61","5420560","2350527",FALSE,NA,TRUE
+"2023-03-03","Drake","74","Murray St.","62","5480627","2421192",TRUE,NA,TRUE
+"2023-03-04","Drake","65","Southern Ill.","52","5426495","2421190",TRUE,NA,TRUE
+"2023-03-05","Drake","77","Bradley","51","5427783","2421188",TRUE,NA,TRUE
+"2022-11-30","Bradley","68","UNI","53","5371675","2339074",FALSE,NA,TRUE
+"2022-12-03","Missouri St.","40","Bradley","58","5373903","2339390",FALSE,NA,TRUE
+"2022-12-28","Belmont","63","Bradley","60","5381073","2341935",FALSE,NA,TRUE
+"2022-12-31","Bradley","79","UIC","45","5382255","2342422",FALSE,NA,TRUE
+"2023-01-04","Murray St.","67","Bradley","58","5383841","2342772",FALSE,NA,TRUE
+"2023-01-07","Bradley","88","Valparaiso","66","5385266","2343246",FALSE,NA,TRUE
+"2023-01-11","Bradley","91","Evansville","46","5387317","2343951",FALSE,NA,TRUE
+"2023-01-18","Indiana St.","67","Bradley","78","5390563","2345014",FALSE,NA,TRUE
+"2023-01-21","Bradley","76","Belmont","78","5392534","2345378",FALSE,NA,TRUE
+"2023-01-25","Bradley","79","Illinois St.","75","5394196","2346072",FALSE,"1 OT",TRUE
+"2023-01-29","UIC","76","Bradley","83","5396554","2346861",FALSE,NA,TRUE
+"2023-02-01","Bradley","62","Southern Ill.","52","5397756","2347097",FALSE,NA,TRUE
+"2023-02-04","UNI","69","Bradley","77","5400089","2347452",FALSE,NA,TRUE
+"2023-02-08","Illinois St.","61","Bradley","79","5402189","2348115",FALSE,NA,TRUE
+"2023-02-11","Bradley","83","Murray St.","48","5406246","2348569",FALSE,NA,TRUE
+"2023-02-15","Bradley","64","Missouri St.","54","5407893","2349176",FALSE,NA,TRUE
+"2023-02-19","Southern Ill.","48","Bradley","50","5412538","2349946",FALSE,NA,TRUE
+"2023-02-22","Valparaiso","66","Bradley","76","5415603","2350063",FALSE,NA,TRUE
+"2023-03-03","Bradley","72","UNI","66","5472535","2421159",TRUE,NA,TRUE
+"2023-03-04","Bradley","71","Indiana St.","70","5472539","2421189",TRUE,NA,TRUE
+"2022-11-30","Evansville","53","Southern Ill.","80","5371960","2338972",FALSE,NA,TRUE
+"2022-12-07","Southern Ill.","71","Indiana St.","74","5375478","2340040",FALSE,NA,TRUE
+"2022-12-29","Murray St.","57","Southern Ill.","63","5381494","2341975",FALSE,NA,TRUE
+"2023-01-01","Southern Ill.","63","Belmont","45","5382723","2342569",FALSE,NA,TRUE
+"2023-01-07","UNI","69","Southern Ill.","57","5385086","2343213",FALSE,NA,TRUE
+"2023-01-11","Indiana St.","61","Southern Ill.","69","5387183","2343965",FALSE,NA,TRUE
+"2023-01-14","Southern Ill.","69","Illinois St.","57","5389372","2344284",FALSE,NA,TRUE
+"2023-01-17","Southern Ill.","77","Evansville","70","5390248","2344847",FALSE,NA,TRUE
+"2023-01-21","Missouri St.","57","Southern Ill.","61","5392081","2345355",FALSE,NA,TRUE
+"2023-01-24","Southern Ill.","68","Murray St.","64","5393645","2345902",FALSE,NA,TRUE
+"2023-01-29","Illinois St.","72","Southern Ill.","66","5396602","2346860",FALSE,NA,TRUE
+"2023-02-05","Southern Ill.","73","Missouri St.","53","5400586","2347912",FALSE,NA,TRUE
+"2023-02-08","Southern Ill.","68","UIC","66","5402213","2348067",FALSE,NA,TRUE
+"2023-02-14","Valparaiso","62","Southern Ill.","66","5407164","2349022",FALSE,NA,TRUE
+"2023-02-22","Southern Ill.","86","UNI","63","5415526","2350081",FALSE,NA,TRUE
+"2023-02-26","UIC","65","Southern Ill.","68","5420255","2350525",FALSE,NA,TRUE
+"2023-03-03","Southern Ill.","54","Missouri St.","51","5425006","2421193",TRUE,NA,TRUE
+"2022-12-01","Belmont","76","Valparaiso","64","5372239","2339182",FALSE,NA,TRUE
+"2022-12-04","Illinois St.","87","Belmont","77","5374145","2339799",FALSE,NA,TRUE
+"2023-01-04","UIC","71","Belmont","77","5383800","2342767",FALSE,NA,TRUE
+"2023-01-07","Belmont","74","Missouri St.","61","5386376","2343236",FALSE,NA,TRUE
+"2023-01-10","Valparaiso","59","Belmont","74","5386726","2343752",FALSE,NA,TRUE
+"2023-01-14","Belmont","76","UNI","72","5389077","2344283",FALSE,NA,TRUE
+"2023-01-17","Belmont","80","Murray St.","65","5390278","2344846",FALSE,NA,TRUE
+"2023-01-25","Evansville","64","Belmont","73","5394354","2345977",FALSE,NA,TRUE
+"2023-02-01","Murray St.","83","Belmont","82","5397752","2347016",FALSE,NA,TRUE
+"2023-02-04","Belmont","90","Illinois St.","75","5399991","2347475",FALSE,NA,TRUE
+"2023-02-08","Missouri St.","61","Belmont","59","5402439","2348055",FALSE,NA,TRUE
+"2023-02-11","Belmont","98","UIC","71","5404248","2348504",FALSE,NA,TRUE
+"2023-02-15","Belmont","95","Evansville","63","5407823","2349112",FALSE,NA,TRUE
+"2023-02-22","Belmont","89","Indiana St.","88","5415464","2350052",FALSE,NA,TRUE
+"2023-02-26","UNI","75","Belmont","83","5419935","2350523",FALSE,NA,TRUE
+"2023-03-03","Belmont","91","Indiana St.","94","5424419","2421191",TRUE,NA,TRUE
+"2022-12-29","Indiana St.","91","Evansville","63","5381450","2342102",FALSE,NA,TRUE
+"2023-01-01","Valparaiso","50","Indiana St.","68","5382639","2342566",FALSE,NA,TRUE
+"2023-01-04","Illinois St.","67","Indiana St.","76","5383844","2342764",FALSE,NA,TRUE
+"2023-01-07","Indiana St.","80","UIC","60","5385064","2343304",FALSE,NA,TRUE
+"2023-01-15","Missouri St.","64","Indiana St.","62","5389562","2344733",FALSE,NA,TRUE
+"2023-01-21","Murray St.","82","Indiana St.","73","5392692","2345380",FALSE,NA,TRUE
+"2023-01-28","Indiana St.","79","UNI","71","5395600","2346500",FALSE,NA,TRUE
+"2023-02-01","Evansville","65","Indiana St.","83","5397766","2347011",FALSE,NA,TRUE
+"2023-02-04","Indiana St.","99","Murray St.","56","5399782","2347540",FALSE,NA,TRUE
+"2023-02-08","Indiana St.","84","Valparaiso","62","5401980","2348171",FALSE,NA,TRUE
+"2023-02-11","UNI","62","Indiana St.","80","5404257","2348920",FALSE,NA,TRUE
+"2023-02-15","UIC","60","Indiana St.","79","5407927","2349106",FALSE,NA,TRUE
+"2023-02-18","Indiana St.","80","Illinois St.","64","5410250","2349584",FALSE,NA,TRUE
+"2023-02-26","Indiana St.","62","Missouri St.","66","5420226","2350537",FALSE,NA,TRUE
+"2023-03-02","Indiana St.","97","Evansville","58","5423657","2421200",TRUE,NA,TRUE
+"2022-11-30","UIC","51","Missouri St.","66","5371668","2338969",FALSE,NA,TRUE
+"2022-12-28","UNI","67","Missouri St.","79","5381129","2341928",FALSE,NA,TRUE
+"2023-01-04","Missouri St.","85","Evansville","62","5383836","2342765",FALSE,NA,TRUE
+"2023-01-11","Illinois St.","76","Missouri St.","66","5387349","2343839",FALSE,"1 OT",TRUE
+"2023-01-24","Missouri St.","63","UIC","59","5393640","2345897",FALSE,NA,TRUE
+"2023-01-28","Murray St.","74","Missouri St.","71","5395694","2346438",FALSE,NA,TRUE
+"2023-02-01","Missouri St.","76","Valparaiso","67","5397783","2347010",FALSE,"1 OT",TRUE
+"2023-02-12","Evansville","60","Missouri St.","66","5405837","2348955",FALSE,NA,TRUE
+"2023-02-18","Missouri St.","66","UNI","69","5410868","2349657",FALSE,NA,TRUE
+"2023-02-21","Missouri St.","84","Murray St.","69","5414531","2350003",FALSE,NA,TRUE
+"2023-03-02","Missouri St.","74","UIC","57","5424010","2421202",TRUE,NA,TRUE
+"2022-12-01","Murray St.","70","Illinois St.","67","5372282","2339185",FALSE,"1 OT",TRUE
+"2022-12-04","Valparaiso","70","Murray St.","77","5374142","2339801",FALSE,"1 OT",TRUE
+"2023-01-01","Evansville","61","Murray St.","78","5382631","2342568",FALSE,NA,TRUE
+"2023-01-10","UNI","75","Murray St.","67","5386768","2343783",FALSE,NA,TRUE
+"2023-01-14","Murray St.","81","UIC","64","5389052","2344293",FALSE,NA,TRUE
+"2023-02-15","Illinois St.","75","Murray St.","76","5407912","2349104",FALSE,NA,TRUE
+"2023-02-18","Murray St.","74","Evansville","58","5410866","2349531",FALSE,NA,TRUE
+"2023-02-26","Murray St.","77","Valparaiso","76","5420592","2350528",FALSE,"1 OT",TRUE
+"2023-03-02","Murray St.","78","Valparaiso","50","5472534","2421201",TRUE,NA,TRUE
+"2022-12-03","UNI","72","Evansville","55","5373215","2339440",FALSE,NA,TRUE
+"2022-12-31","Illinois St.","60","UNI","66","5382345","2342341",FALSE,NA,TRUE
+"2023-01-04","Valparaiso","67","UNI","69","5383675","2342803",FALSE,NA,TRUE
+"2023-01-18","UNI","65","Illinois St.","63","5390800","2344965",FALSE,NA,TRUE
+"2023-01-21","UIC","72","UNI","78","5392084","2345358",FALSE,NA,TRUE
+"2023-01-25","UNI","77","Valparaiso","66","5394143","2346029",FALSE,NA,TRUE
+"2023-02-08","Evansville","71","UNI","59","5402202","2348123",FALSE,NA,TRUE
+"2023-03-02","UNI","75","Illinois St.","62","5472532","2421194",TRUE,NA,TRUE
+"2022-12-28","UIC","55","Illinois St.","51","5381124","2341896",FALSE,NA,TRUE

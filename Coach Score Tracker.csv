@@ -1,0 +1,15 @@
+Coach,Opponent,Date,Score,OppScore,Diff,Win
+Luke Smith,Sean Rutigliano,6/11/24,4,0,4,TRUE
+Sean Rutigliano,Luke Smith,6/11/24,0,4,-4,FALSE
+Luke Smith,Sean Rutigliano,6/14/24,13,12,1,TRUE
+Sean Rutigliano,Luke Smith,6/14/24,12,13,-1,FALSE
+Luke Smith,Sean Rutigliano,6/14/24,13,7,6,TRUE
+Sean Rutigliano,Luke Smith,6/14/24,7,13,-6,FALSE
+Luke Smith,Sean Rutigliano,6/14/24,11,7,4,TRUE
+Sean Rutigliano,Luke Smith,6/14/24,7,11,-4,FALSE
+Kerron Johnson,Brian Ayers,6/14/24,12,14,-2,FALSE
+Brian Ayers,Kerron Johnson,6/14/24,14,12,2,TRUE
+Luke Smith,Harrison Gascho,7/29/24,14,10,4,TRUE
+Harrison Gascho,Luke Smith,7/29/24,10,14,-4,FALSE
+Luke Smith,Harrison Gascho,7/29/24,28,33,-5,FALSE
+Harrison Gascho,Luke Smith,7/29/24,33,28,5,TRUE
